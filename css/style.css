@@ -2,6 +2,17 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+  /*........................................... 
+                 partners section
+    ...........................................*/
+  .sponsor-img{
+    width: 8%;
+}
+ 
+/*............................................ 
+              media queries
+ ............................................*/
+
 @media screen and (max-width:600px) {
     h1 {
         font-size: 16px;
@@ -10,9 +21,4 @@ body {
     p {
         font-size: 10px;
     }
-    
-
-}
-.sponsor-img{
-    width: 8%;
 }
