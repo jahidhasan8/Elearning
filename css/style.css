@@ -13,3 +13,10 @@ body {
     
 
 }
+/* @media screen and (min-width:240) and (max-width:768px) {
+    .item-width{
+        width: 100%;
+    }
+  
+    
+} */
